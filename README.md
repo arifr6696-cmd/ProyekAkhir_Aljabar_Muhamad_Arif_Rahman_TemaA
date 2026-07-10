@@ -4,7 +4,6 @@ Repositori ini berisi implementasi perangkat lunak untuk memvisualisasikan opera
 
 **Dikembangkan oleh:** Muhamad Arif Rahman  
 **NPM:** 065125084
-
 **Institusi:** Ilmu Komputer, Universitas Pakuan  
 
 ## 🚀 Deskripsi Proyek
