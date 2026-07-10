@@ -2,8 +2,7 @@
 
 Repositori ini berisi implementasi perangkat lunak untuk memvisualisasikan operasi matriks pada transformasi geometri 2D. Proyek ini dikembangkan menggunakan bahasa pemrograman Python murni dan pustaka antarmuka grafis Tkinter, tanpa melibatkan *library* komputasi *black-box* seperti NumPy.
 
-**Dikembangkan oleh:** Muhamad Arif Rahman  
-**NPM:** 065125084
+**Dikembangkan oleh:** Muhamad Arif Rahman(084)
 **Institusi:** Ilmu Komputer, Universitas Pakuan  
 
 ## 🚀 Deskripsi Proyek
